@@ -1,5 +1,5 @@
-Hi STAT 600
+Hi STAT 600!
 
-Statistics can be dull but
+Statistics can be dull, but
 
-it has its moments
+it has its moments.
